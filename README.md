@@ -24,17 +24,19 @@ I am Siva Kumaran. You can find me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+## 👩‍💻 IDE
+![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 👩‍💻 Languages
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 ## 🎮 Games
 ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-
-
-![]()
-![]()
-![]()
-
-![](https://img.shields.io/badge/Editor-vs_code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
-
 
 <!-- icons without padding -->
 
