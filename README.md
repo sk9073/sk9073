@@ -34,7 +34,7 @@ I am Siva Kumaran. You can find me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 💳 Github Profile Summary Card
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sk9073}&theme={default}
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sk9073}&theme={default})
 
 ## 🎮 Games
 ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
