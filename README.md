@@ -7,7 +7,6 @@ I am Siva Kumaran. You can find me on [![LinkedIn][3.2]][3]
 - I am currently working 💻 on
   - Full Stack Web App development
   - Cloud Computing
-  - macOS-Monterey- 
   - Problem Solving 🔧
 
 ## 🔧 Frameworks & Library
