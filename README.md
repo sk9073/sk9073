@@ -1,13 +1,24 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Siva Kumaran. You can find me on [![LinkedIn][3.2]][3]
 
-- I speak English🇬🇧,Hindi🇮🇳 ,Tamil🇮🇳 and Tech
-- I attend Amrita School of Engineering🎓 
-- I am currently working 💻 on
-  - Full Stack Web App development
-  - Cloud Computing
-  - Problem Solving 🔧
+👋 Hi, I’m Siva Kumaran — a full-stack web developer who loves turning ideas into clean, scalable applications.
+
+🌐 I’m passionate about:
+- Building full-stack web apps (React, Node, etc.)
+- Exploring cloud computing & DevOps
+- Solving problems through code and collaboration
+
+💪 My strengths:
+- Taking initiative across projects
+- Strong time management & accountability
+- Clear, effective communication
+🎓 Currently studying at Amrita School of Engineering
+💻 Always learning. Always building.
+
+🗣 I speak English, Hindi, Tamil, and Tech
+
+🔗 Connect with me on [![LinkedIn][3.2]][3]
+
 
 ## 🔧 Frameworks & Library
 <!-- this is a pure comment. -->
